@@ -1,3 +1,6 @@
+/* This code shows how we can implement stack data stucture using ArrayList in Java
+*/
+
 import java.util.ArrayList;
 import java.util.List;
 
