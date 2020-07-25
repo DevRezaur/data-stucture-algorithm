@@ -99,7 +99,7 @@ public class SinglyLinkedList {
 			previousNode.next = currentNode.next;
 			
 			// Return the updated linkedlist
-//			return list;
+			return list;
 		}
 		
 		// If the value to be deleted if not found after executing the above while loop
