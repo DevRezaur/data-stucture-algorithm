@@ -15,9 +15,9 @@ public class BinarySearch {
 		// This indicates the mid index of the array
 		mid = (first + last) / 2;
 
-		// The operation will continue till low index becomes greater than the high index
+		// The operation will continue untill low index becomes greater than the high index
 		while (first <= last) {
-			// If middle index of the array contains the key, then break the loop and return mid;
+			// If middle index of the array contains the key, then break the loop and return mid
 			if (array[mid] == key) {
 				break;
 			}
